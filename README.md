@@ -1,7 +1,8 @@
 <img src="https://lh3.googleusercontent.com/pw/AM-JKLXPZIPDFN74Yx7vEx5AKPihPhfctU5q2HeVUN3xSRM54oF7smzz16WPE3sFkgtAPj8ESG18-EwZ4bGqSGf4fwbA117HX_eMubOscgTNiLXG_kNKtgsLol0K7grru9VQrPRY2irDkoP4t8jZH0xwBg=w642-h274-no?authuser=1" width = "1000" height="300">
 <h1 align="center">Nice to meet you🤗</h1>
 
-## I am Haku.
+### I am Haku.
+---
 <img align="right" width="175" height="175" src="https://lh3.googleusercontent.com/iGBd56rwOPSTB2-8qTcVc2gG_cbpCfjOZ0FFQbNz6D4tWdz0mDbcFjrlyhQtOzPkrN7O4bPV-RvwfU0=w248-h275-rw">
 I am from <b>Japan</b>.<br> 
 I am working as a <b>resident doctor</b>.<br>
@@ -14,12 +15,13 @@ Did you see my <b>Discord icon</b>? That's one of my dog I had!!
 <br>I am an early riser, and I go to bed almost at 10 P.M.<br>
 That's why I get up at 4 A.M. or so, then I go to work.
 
-## Any one can contact me!
-
+### Any one can contact me!
+---
 You can **<font>DM me on Discord</font>** if you like. <br>
 I really like to talk with people, also I am a careful listener.<br>
 
 Especially, who likes machine learning are welcomed!!
+
 ---
 
 ### My English skills
