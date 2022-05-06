@@ -15,7 +15,7 @@ Did you see my <b>Discord icon</b>? That's one of my dog I had!!
 <br>I am an early riser, and I go to bed almost at 10 P.M.<br>
 That's why I get up at 4 A.M. or so, then I go to work.
 
-### Any one can contact me!
+### Any one can contact me! Whenever online, you can even call me!!
 ---
 You can **<font>DM me on Discord</font>** if you like. <br>
 I really like to talk with people, also I am a careful listener.<br>
